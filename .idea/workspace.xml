@@ -6,15 +6,24 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eea47cb-fca3-400f-b12e-f8745d850abf" name="Default Changelist" comment="" />
+    <list default="true" id="7eea47cb-fca3-400f-b12e-f8745d850abf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/controller/UserController.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1S0aqVAaqj9FA1pAN8sSo8Lo5kU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -33,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.SpringMvcDemo [clean]">
+  <component name="RunManager" selected="Smart Tomcat.Tomcat">
     <configuration name="SpringMvcDemo [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -109,7 +118,7 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+    <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
       <option name="DOC_BASE" value="$PROJECT_DIR$/src/main/webapp" />
       <option name="DOC_MODULE_ROOT" value="" />
       <option name="CONTEXT_PATH" value="/SpringMvcFirst" />
@@ -163,7 +172,7 @@
       <item itemvalue="Maven.SpringMvcDemo [clean]" />
       <item itemvalue="Maven.SpringMvcDemo [compile]" />
       <item itemvalue="Maven.SpringMvcDemo [package]" />
-      <item itemvalue="Smart Tomcat.Unnamed" />
+      <item itemvalue="Smart Tomcat.Tomcat" />
     </list>
     <recent_temporary>
       <list>
@@ -185,5 +194,16 @@
       <updated>1570703157385</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

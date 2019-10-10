@@ -12,7 +12,7 @@ public class UserController {
     @RequestMapping("")
     public String display(ModelMap model)
     {
-        User user = new User("Pranjal");
+        User user = new User("Sourav");
         model.addAttribute("output", user.getName());
         return "index";
     }
